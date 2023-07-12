@@ -68,7 +68,7 @@ setTimeout(() => {
 
 // CONNECTION
 // const socketURL = 'wss://cursovaya-psp-server.onrender.com';
-const socketURL = 'https://floppserv.onrender.com';
+const socketURL = 'wss://floppserv.onrender.com';
 
 /*
 НУЖН ТОЛЬКО 1 ЗАПУСК ПОПЫТКИ ПОДКЛЮЧЕНИЯ connection()
